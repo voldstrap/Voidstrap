@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://voidstrapp.netlify.app/">
-<img src="https://raw.githubusercontent.com/voldstrap/Voidstrap/main/Bloxstrap/Voidstrap.png" alt="preview" width="100px"/>
+<img src="https://raw.githubusercontent.com/voldstrap/voldstrap/main/Bloxstrap/Voidstrap.png" alt="preview" width="100px"/>
 </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="github.com/voldstrap/Voidstrap/releases/latest">Latest release</a> |
+  <a href="github.com/voldstrap/voldstrap/releases/latest">Latest release</a> |
   <a href="https://www.youtube.com/watch?v=P-GqTUo_HIA&t">Tutorial</a> |
   <a href="https://voidstrapp.netlify.app/donate/donate">Donate</a> |
   <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
@@ -41,7 +41,7 @@ Leave a star if you like the project! ⭐️
 ## Installation
 
 1. Download the latest version
-   👉 https://github.com/voldstrap/Voidstrap/releases/latest
+   👉 https://github.com/voldstrap/voldstrap/releases/latest
 2. Run the Exe and Finish the setup
 3. Launch Voidstrap
 4. Enjoy a more simple Roblox
@@ -96,7 +96,7 @@ Voidstrap is built using **C# and .NET**.
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 33%; text-align: left;">© Voidstrap</td>
-    <td style="width: 33%; text-align: right;"><a href="https://github.com/voldstrap/Voidstrap/blob/main/LICENSE.VOIDSTRAP" target="_blank">MIT</a></td>
+    <td style="width: 33%; text-align: right;"><a href="https://github.com/voldstrap/voldstrap/blob/main/LICENSE.VOIDSTRAP" target="_blank">MIT</a></td>
   </tr>
 </table>
 
@@ -118,13 +118,13 @@ Voidstrap is built using **C# and .NET**.
 > Voidstrap is still in **early development**, even though the project has existed for over **2 years**.  
 > Features may change and some things may still be unfinished.
 
-[shield-repo-downloads]:  https://img.shields.io/github/downloads/voldstrap/Voidstrap/latest/total?color=981bfe
-[shield-repo-total]:      https://img.shields.io/github/downloads/voldstrap/Voidstrap/total?color=8a2be2
+[shield-repo-downloads]:  https://img.shields.io/github/downloads/voldstrap/voldstrap/latest/total?color=981bfe
+[shield-repo-total]:      https://img.shields.io/github/downloads/voldstrap/voldstrap/total?color=8a2be2
 [shield-repo-latest]:     https://img.shields.io/github/v/release/voldstrap/Voidstrap?color=7a39fb
 [shield-repo-stars]:      https://img.shields.io/github/stars/voldstrap/Voidstrap?color=ffd700
 [shield-discord-server]:  https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff
 
-[repo-releases]:          https://github.com/voldstrap/Voidstrap/releases
-[repo-latest]:            https://github.com/voldstrap/Voidstrap/releases/latest
-[repo-stargazers]:        https://github.com/voldstrap/Voidstrap/stargazers
+[repo-releases]:          https://github.com/voldstrap/voldstrap/releases
+[repo-latest]:            https://github.com/voldstrap/voldstrap/releases/latest
+[repo-stargazers]:        https://github.com/voldstrap/voldstrap/stargazers
 [discord-invite]:         https://discord.gg/dfA9PdWgcV
