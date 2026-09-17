@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/voldstrap/Voidstrap/releases/tag/v1.1.0.3">Latest release</a> |
+  <a href="github.com/voldstrap/Voidstrap/releases/tag/v1.1.0.3">Latest release</a> |
   <a href="https://www.youtube.com/watch?v=P-GqTUo_HIA&t">Tutorial</a> |
   <a href="https://voidstrapp.netlify.app/donate/donate">Donate</a> |
   <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
