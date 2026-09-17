@@ -41,7 +41,7 @@ Leave a star if you like the project! ⭐️
 ## Installation
 
 1. Download the latest version
-   👉 https://github.com/voldstrap/voldstrap/releases/latest
+   👉 https://github.com/voldstrap/Voidstrap/releases/latest
 2. Run the Exe and Finish the setup
 3. Launch Voidstrap
 4. Enjoy a more simple Roblox
